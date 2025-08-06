@@ -60,11 +60,12 @@
 ---
 
 ### 📊 GitHub Stats
+<!-- GitHub Stats -->
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz1745&show_icons=true&theme=matrix)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizalcantara&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizalcantara&layout=compact&theme=radical" height="150"/>
-</p>
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz1745&layout=compact&theme=matrix)
+
 
 ---
 
