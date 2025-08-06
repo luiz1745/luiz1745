@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100%" alt="matrix-banner">
+  <img src="https://i.pinimg.com/originals/11/ad/48/11ad486604ba6802ffe7cda95ce1f528.gif" width="100%" alt="matrix-banner">
 </p>
 
 <h1 align="center">Hey there, I'm Luiz 👋</h1>
