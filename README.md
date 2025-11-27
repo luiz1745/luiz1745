@@ -6,7 +6,7 @@
 
 <p align="center">
   IT Technician | Information Systems Student | Cybersecurity Enthusiast<br>
-  Future university student in Saint Petersburg 🇷🇺 | Passionate about tech, skateboarding and challenges
+student in gorni universitet st. petesburg 🇷🇺 | Passionate about tech, skateboarding and challenges
 </p>
 
 ---
