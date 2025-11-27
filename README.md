@@ -59,15 +59,6 @@ student in gorni universitet st. petesburg 🇷🇺 | Passionate about tech, ska
 
 ---
 
-### 📊 GitHub Stats
-<!-- GitHub Stats -->
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz1745&show_icons=true&theme=matrix)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz1745&layout=compact&theme=matrix)
-
-
----
 
 ### 📫 How to reach me
 
