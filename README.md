@@ -17,7 +17,6 @@
   <a href="mailto:luizalcantara1745@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 ---
