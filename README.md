@@ -1,169 +1,206 @@
-# Luiz Alcântara
+# ⚡ Luiz Alcântara
+
+```
+████╗     ██╗██╗   ██╗██╗███████╗
+██╔██╗    ██║██║   ██║██║╚════██║
+██║╚██╗   ██║██║   ██║██║    ██╔╝
+██║ ╚██╗  ██║██║   ██║██║   ██╔╝
+███████║  ██║╚██████╔╝██║   ██║
+╚════██║  ╚═╝ ╚═════╝ ╚═╝   ╚═╝
+     ██║
+     ╚═╝
+```
+
+> 🔐 **Penetration Tester | Red Teamer | Information Systems Student**  
+> *Building offensive security solutions | Breaking systems to protect them*
+
+---
+
+## 🎯 Who I Am
+
+```bash
+$ whoami
+luiz.alcantara [offensive-security] [python-dev] [network-ninja]
+$ echo "Status: Always learning, always hacking"
+```
+
+I'm a cybersecurity enthusiast with a passion for **offensive security and penetration testing**. Currently studying Information Systems & Technologies at **Gorny Universitet** in Saint Petersburg, Russia, with hands-on experience as a Network Technician. I specialize in finding vulnerabilities before the bad guys do.
+
+- 🕵️ **Specialization:** Offensive Security, Penetration Testing, Bug Bounty Hunting
+- 🌍 **Location:** Saint Petersburg, Russia
+- 🎓 **Education:** Information Systems & Technologies (09.03.02) — Gorny Universitet
+- 📜 **Certifications:** LGPD (Brazil's GDPR), Offensive Security/Pentesting
+- 🗣️ **Languages:** Portuguese (Native) • English • Spanish • Russian
+
+---
+
+## 💻 Tech Stack & Arsenal
+
+### **🛡️ Security & Exploitation**
+```
+Kali Linux  |  Burp Suite  |  Metasploit  |  TryHackMe
+SQLMap  |  Wireshark  |  nmap  |  Nikto
+```
+
+### **🐍 Programming & Scripting**
+```
+Python  |  Bash  |  C  |  JavaScript
+```
+
+### **🔧 Infrastructure & Tools**
+```
+Linux Administration  |  Docker  |  Git  |  Networking
+```
+
+### **📊 Data & Analytics**
+```
+Power BI  |  Excel  |  SQL
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🔑 **APIKeyHunter**
+> CLI tool for discovering and validating exposed API keys across multiple platforms
+
+- **Status:** ✅ Production-ready
+- **Stack:** Python, Security automation
+- **Features:** Multi-service support, real-time validation, security scoring
+- **Impact:** Automated vulnerability detection across infrastructure
+- 📂 [View on GitHub](https://github.com/yourusername/apikeyhuner)
+
+### ⚽ **Fut90Sports**
+> Multi-channel e-commerce platform for football equipment (Brazil & Russia)
+
+- **Status:** 🟢 Active & scaling
+- **Responsibility:** Full-stack operations, inventory management, customer support
+- **Technologies:** E-commerce, business automation
+- 🌐 [Visit Store](https://fut90sports.ru)
+
+### 🔥 **Penetration Testing & Bug Bounty**
+> Hands-on offensive security practice with real-world impact
+
+- **Platforms:** Bugcrowd, HackTheBox, TryHackMe
+- **Focus Areas:** Web application security (OWASP Top 10), network penetration, privilege escalation
+- **Approach:** Methodical reconnaissance → exploitation → privilege escalation → persistence
+
+---
+
+## 🎓 Current Learning Path
+
+### **Cybersecurity Roadmap: "Completo Iniciante"**
+
+A comprehensive, phase-based curriculum for beginner-to-intermediate penetration testers:
+
+```
+Phase 1: Foundations ✅
+├── Network fundamentals & protocols (TCP/IP, DNS, HTTP)
+├── Linux system administration
+├── Bash scripting & automation
+└── Basic web concepts (HTML, HTTP, APIs)
+
+Phase 2: Reconnaissance & Enumeration (🔄 IN PROGRESS)
+├── Information gathering & OSINT
+├── Network scanning & service identification
+├── Vulnerability assessment tools
+└── Exploitation methodology frameworks
+
+Phase 3: Exploitation & Post-Exploitation
+├── Common vulnerability exploitation (RCE, SQLi, XSS)
+├── Privilege escalation techniques
+├── Persistence & evasion
+└── Incident response simulation
+
+Phase 4: Advanced Topics
+├── Active Directory exploitation
+├── Cloud security assessment
+├── Secure coding concepts
+└── Advanced reporting & remediation
+```
+
+**Progress:** 40% Complete | **ETA:** Q1 2027
+
+---
+
+## 🏆 Expertise & Interests
+
+| Category | Focus Areas |
+|----------|------------|
+| **Offense** | Web app pentesting, network reconnaissance, exploitation, privilege escalation |
+| **Defense** | Vulnerability management, secure coding, incident response |
+| **Tools** | Burp Suite, Kali Linux, Metasploit, custom Python automation |
+| **Hobbies** | CTF challenges, bug bounty hunting, open-source security tools |
+
+---
+
+## 🎯 Career Roadmap
+
+```
+2026 → Complete "Completo Iniciante" cybersecurity curriculum
+        ↓
+2027 → Pursue OSCP or equivalent pentesting certification
+        ↓
+2027 → Launch first major bug bounty findings
+        ↓
+2028+ → Full-time offensive security role or consulting
+```
+
+---
+
+## 🛹 Beyond the Terminal
+
+When I'm not hacking systems, I'm:
+
+- 🛹 Skateboarding (street & downhill)
+- 🏀 Playing basketball
+- 🎮 Competing in CTF challenges
+- 📚 Reading about security research
+- 🌐 Contributing to open-source security projects
+
+---
+
+## 🔗 Connect & Collaborate
+
+I'm always interested in:
+- **Security research** & knowledge sharing
+- **Mentorship** in cybersecurity fundamentals
+- **Bug bounty collaboration** & vulnerability disclosure
+- **Open-source contributions** to security tools
+- **Networking** with other security professionals
+
+---
 
 <div align="center">
 
-**Information Systems Student | Network Technician | Cybersecurity Enthusiast**
+### 📧 Get In Touch
 
-*Building security-first solutions | Passionate about ethical hacking & penetration testing*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-alcantara-3a49012a0/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizalcantara1745@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizalcantara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-alcantara-3a49012a0/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourusername)
+
+---
+
+```
+"Dreaming big, working hard,
+and hacking toward the future."
+```
+
+*Last Updated: September 2026*
 
 </div>
 
 ---
 
-## 🎯 About Me
+### ⚙️ Random Stats
 
-Aspiring **cybersecurity professional** with hands-on experience in network infrastructure and IT support. Currently pursuing a degree in Information Systems at **Gorny Universitet** (St. Petersburg, Russia), with a strong focus on offensive security and penetration testing.
-
-- 🔐 **Specialization:** Offensive Security & Penetration Testing
-- 🌍 **Location:** Saint Petersburg, Russia  
-- 🎓 **Current Studies:** Information Systems & Technologies (09.03.02) — Gorny Universitet
-- 📚 **Certifications:** LGPD (Brazilian GDPR), Offensive Security/Pentesting
-- 💬 **Languages:** Portuguese (Native) • English • Spanish • Russian
+- 🎯 Active penetration tester since 2024
+- 📊 100+ labs completed on TryHackMe
+- 🐛 Tracking vulnerabilities on Bugcrowd
+- 🔍 Constantly refining exploitation techniques
+- 🚀 Learning something new every day
 
 ---
 
-## 💼 Professional Experience
-
-### Network Technician
-**Technical Support & Infrastructure Maintenance**
-- Network troubleshooting and configuration
-- PC and mobile device support & optimization
-- Linux system administration basics
-- IT helpdesk and maintenance
-
----
-
-## 🛠️ Technical Stack
-
-### Security & Hacking
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6600?style=for-the-badge&logo=burp&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-
-### Programming & Scripting
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-
-### Infrastructure & Tools
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Data & Analytics
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-### 🔑 [APIKeyHunter](https://github.com/luizalcantara/apikeyhuner)
-**CLI Tool for API Key Security Scanning**
-- Automated detection and validation of exposed API keys
-- Supports multiple API services and platforms
-- Built with Python & best practices for security tooling
-- *Status:* Production-ready
-
-### 🎨 [@bemo_ai](https://instagram.com/bemo_ai)
-**AI-Focused Educational Content**
-- Instagram brand with AI/ML educational content
-- 500+ engaged followers in tech community
-- BMO-inspired persona for technical education
-
-### ⚽ [Fut90Sports](https://fut90sports.ru)
-**E-Commerce Platform — Football Equipment**
-- Multi-channel sales (Brazil & Russia)
-- Inventory & digital marketing management
-- Business operations & customer support
-
-### 🚀 Cybersecurity Training
-**Hands-on pentesting & bug bounty experience**
-- Active participation in TryHackMe labs
-- Bugcrowd bug bounty hunting
-- Real-world vulnerability assessment practice
-
----
-
-## 📚 Current Learning Path
-
-### Cybersecurity Roadmap — "Completo Iniciante"
-Progressive study plan covering:
-- ✅ Network fundamentals & protocols
-- ✅ Linux & system administration
-- ✅ Ethical hacking methodologies
-- 🔄 Web application security (OWASP Top 10)
-- 🔄 Network penetration testing
-- 📌 Incident response & digital forensics
-
-**Progress:** Phase 2 of 4 | Est. Completion: Q1 2027
-
----
-
-## 🎓 Academic Journey
-
-### Gorny Universitet → ITMO Transfer
-Exploring transition to **ITMO's Information Protection Technologies program (10.03.01)**
-- **Transferable Credits:** ~72-81 z.ed (30-34% of program)
-  - Mathematics ✅ Fully transferable
-  - Programming ✅ Fully transferable  
-  - Systems 🔄 Under assessment
-  - General Studies ✅ Fully transferable
-- **Timeline:** 6-7 semesters vs. 8 (standard)
-
----
-
-## 🎯 Goals & Roadmap
-
-| Timeline | Goal |
-|----------|------|
-| **2026** | Complete "Completo Iniciante" cybersecurity curriculum |
-| **2027** | Earn OSCP or equivalent penetration testing certification |
-| **2027-2028** | Transfer to ITMO's Information Protection program |
-| **2028+** | Launch offensive security consulting or secure full-time role in pentesting |
-
----
-
-## 🏆 Interests & Hobbies
-
-🛹 **Skateboarding** — Street skating, downhill, freestyle  
-🏀 **Basketball** — Competitive play & fitness  
-💡 **Tech Challenges** — CTFs, bug bounties, hackathons  
-🌐 **Open Source** — Contributing to security tools  
-
----
-
-## 📊 GitHub Stats
-
-<!-- Uncomment when you want to add GitHub stats -->
-<!-- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizalcantara&theme=dark)](https://github.com/luizalcantara)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizalcantara&layout=compact&theme=dark)](https://github.com/luizalcantara)
--->
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to:
-- 🔐 **Cybersecurity collaboration** & knowledge sharing
-- 📖 **Mentorship** in IT & security fundamentals
-- 💼 **Opportunities** in penetration testing or security roles
-- 🚀 **Open-source projects** related to security tools
-
-📧 **Email:** luizalcantara1745@gmail.com  
-🔗 **LinkedIn:** [Luiz Alcântara](https://www.linkedin.com/in/luiz-alcantara-3a49012a0/)
-
----
-
-<div align="center">
-
-### "Dreaming big, working hard, and building a future in cybersecurity." 🚀
-
-*Last updated: September 2026*
-
-</div>
+> **Pro Tip:** If you got this far, you should definitely [reach out](#connect--collaborate). Security is a team sport. 🤝
